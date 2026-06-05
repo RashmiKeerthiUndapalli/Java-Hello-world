@@ -1,0 +1,9 @@
+target/
+*.log
+*.iml
+.idea/
+.vscode/
+*.class
+.DS_Store
+terraform/.terraform/
+terraform/*.tfstate*
